@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface RBFirstViewController : UIViewController <RMMapViewDelegate>
-
+{
+    NSMutableArray *_heightsArray;
+}
 @end

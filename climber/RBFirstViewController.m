@@ -11,6 +11,8 @@
 #import <SimpleKMLContainer.h>
 #import <SimpleKMLPlacemark.h>
 #import <SimpleKMLPoint.h>
+#import <CorePlot-CocoaTouch.h>
+#import "RBHeightPlotViewController.h"
 @interface RBFirstViewController ()
 
 @end
@@ -31,7 +33,7 @@
     NSString *kml = [[NSBundle mainBundle] pathForResource:@"wind" ofType:@"kml"];
     KMLRoot *root = [KMLParser parseKMLWithString:[NSString stringWithContentsOfFile:kml]];
     NSArray *aaa =root.placemarks;
-    
+    _heightsArray = [NSMutableArray array];
     NSArray *cooordinates;
     for ( KMLPlacemark *p in aaa)
     {
@@ -44,6 +46,7 @@
     for ( KMLCoordinate *coor in cooordinates)
     {
         CLLocation *loca = [[CLLocation alloc]initWithLatitude:coor.latitude longitude:coor.longitude];
+        [_heightsArray addObject:[NSNumber numberWithFloat:coor.altitude]];
         [locations addObject:loca];
     }
 //    SimpleKML *kml = [SimpleKML KMLWithContentsOfFile:@"/Users/Boska/Projects/climber/climber/routes/wind.kml" error:nil];
@@ -69,7 +72,6 @@
     
     [mapView addAnnotation:annotation];
     
-   
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -92,5 +94,16 @@
         [shape addLineToCoordinate:location.coordinate];
     
     return shape;
+}
+- (void)doubleTapOnMap:(RMMapView *)map at:(CGPoint)point{
+    [self performSegueWithIdentifier:@"height" sender:nil];
+}
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
+{
+    if ( [segue.identifier isEqualToString:@"height"])
+    {
+        RBHeightPlotViewController *vc = segue.destinationViewController;
+        vc.heightsArray = _heightsArray;
+    }
 }
 @end

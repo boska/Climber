@@ -30,6 +30,7 @@
 		8D953210179EB0BA008FDE66 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D95320E179EB0BA008FDE66 /* InfoPlist.strings */; };
 		8D953213179EB0BA008FDE66 /* climberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D953212179EB0BA008FDE66 /* climberTests.m */; };
 		8D95321F179EB6D8008FDE66 /* wind.kml in Resources */ = {isa = PBXBuildFile; fileRef = 8D95321E179EB6D8008FDE66 /* wind.kml */; };
+		8D9A081A179ED9E500239286 /* RBHeightPlotViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D9A0819179ED9E500239286 /* RBHeightPlotViewController.m */; };
 		E9EA8887973C429B981A4DD3 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F414DC40E69D4A278EF290A0 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -75,6 +76,8 @@
 		8D953211179EB0BA008FDE66 /* climberTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = climberTests.h; sourceTree = "<group>"; };
 		8D953212179EB0BA008FDE66 /* climberTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = climberTests.m; sourceTree = "<group>"; };
 		8D95321E179EB6D8008FDE66 /* wind.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = wind.kml; path = /Users/Boska/Projects/climber/climber/routes/wind.kml; sourceTree = "<absolute>"; };
+		8D9A0818179ED9E500239286 /* RBHeightPlotViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RBHeightPlotViewController.h; path = ../RBHeightPlotViewController.h; sourceTree = "<group>"; };
+		8D9A0819179ED9E500239286 /* RBHeightPlotViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RBHeightPlotViewController.m; path = ../RBHeightPlotViewController.m; sourceTree = "<group>"; };
 		F414DC40E69D4A278EF290A0 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -141,6 +144,8 @@
 				8D95321D179EB6D8008FDE66 /* routes */,
 				8D9531E2179EB0BA008FDE66 /* RBAppDelegate.h */,
 				8D9531E3179EB0BA008FDE66 /* RBAppDelegate.m */,
+				8D9A0818179ED9E500239286 /* RBHeightPlotViewController.h */,
+				8D9A0819179ED9E500239286 /* RBHeightPlotViewController.m */,
 				8D9531EB179EB0BA008FDE66 /* MainStoryboard_iPhone.storyboard */,
 				8D9531EE179EB0BA008FDE66 /* MainStoryboard_iPad.storyboard */,
 				8D9531F1179EB0BA008FDE66 /* RBFirstViewController.h */,
@@ -348,6 +353,7 @@
 				8D9531E4179EB0BA008FDE66 /* RBAppDelegate.m in Sources */,
 				8D9531F3179EB0BA008FDE66 /* RBFirstViewController.m in Sources */,
 				8D9531FA179EB0BA008FDE66 /* RBSecondViewController.m in Sources */,
+				8D9A081A179ED9E500239286 /* RBHeightPlotViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
