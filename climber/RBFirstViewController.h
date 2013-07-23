@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RBFirstViewController : UIViewController
+@interface RBFirstViewController : UIViewController <RMMapViewDelegate>
 
 @end

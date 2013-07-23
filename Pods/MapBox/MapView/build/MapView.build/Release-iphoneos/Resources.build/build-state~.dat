@@ -1,0 +1,402 @@
+TResources
+v5
+r1
+cCheck dependencies
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png Map/../Map/Resources/mapbox@2x.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png Map/../Map/Resources/HeadingAngleSmall@2x.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png Map/../Map/Resources/TrackingDot@2x.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png Map/../Map/Resources/TrackingDotHalo@2x.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png Map/../Map/Resources/TrackingHeading@2x.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png Map/../Map/Resources/TrackingLocation@2x.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png Map/../Map/Resources/HeadingAngleLarge@2x.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.png
+cCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png Map/../Map/Resources/HeadingAngleMedium@2x.png
+cCpResource Map/../Map/Resources/examples.map-z2effxa8.json ../../Resources/MapBox.bundle/examples.map-z2effxa8.json
+cCpResource Map/../Map/Resources/examples.map-zswgei2n.json ../../Resources/MapBox.bundle/examples.map-zswgei2n.json
+cTouch /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/examples.map-z2effxa8.json
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/examples.map-zswgei2n.json
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png
+t2
+s0
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge.png
+c0000000051EE7B310000000000000E2C
+t1374583601
+s3628
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge@2x.png
+c0000000051EE7B310000000000002784
+t1374583601
+s10116
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium.png
+c0000000051EE7B3100000000000009DA
+t1374583601
+s2522
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium@2x.png
+c0000000051EE7B310000000000001AA5
+t1374583601
+s6821
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall.png
+c0000000051EE7B310000000000000AA7
+t1374583601
+s2727
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall@2x.png
+c0000000051EE7B310000000000001F1F
+t1374583601
+s7967
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTile.png
+c0000000051EE7B310000000000000B44
+t1374583601
+s2884
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTileZoom.png
+c0000000051EE7B3100000000000002D3
+t1374583601
+s723
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot.png
+c0000000051EE7B31000000000000035C
+t1374583601
+s860
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot@2x.png
+c0000000051EE7B310000000000000953
+t1374583601
+s2387
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo.png
+c0000000051EE7B310000000000002F07
+t1374583601
+s12039
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo@2x.png
+c0000000051EE7B310000000000006991
+t1374583601
+s27025
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading.png
+c0000000051EE7B3100000000000002B3
+t1374583601
+s691
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading@2x.png
+c0000000051EE7B310000000000000664
+t1374583601
+s1636
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation.png
+c0000000051EE7B31000000000000019E
+t1374583601
+s414
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation@2x.png
+c0000000051EE7B310000000000000358
+t1374583601
+s856
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/examples.map-z2effxa8.json
+c0000000051EE7B3100000000000002D9
+t1374583601
+s729
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/examples.map-zswgei2n.json
+c0000000051EE7B3100000000000002E2
+t1374583601
+s738
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/mapbox.png
+c0000000051EE7B31000000000000087B
+t1374583601
+s2171
+
+N/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/mapbox@2x.png
+c0000000051EE7B3100000000000013E1
+t1374583601
+s5089
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfd33d3b7b29eb741^e738dbb7b29eb741^---0#1#0#--18"Check dependencies36"A77A7E16-58F6-4367-AC45-21EA453E7A53-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.png
+s396276408.268404
+e396276408.309760
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png
+xMap/../Map/Resources/HeadingAngleLarge.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.pnga2d244b8b29eb741^d8624fb8b29eb741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge.png0000000000000000^1081"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleLarge.png Map/../Map/Resources/HeadingAngleLarge.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge.png36"2A8C4EF7-F017-4C1E-9CE2-50B82E6FDC6F-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png Map/../Map/Resources/HeadingAngleLarge@2x.png
+s396276408.303038
+e396276408.350957
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png
+xMap/../Map/Resources/HeadingAngleLarge@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png Map/../Map/Resources/HeadingAngleLarge@2x.png63b94db8b29eb741^a6ef59b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge@2x.png0000000000000000^1101"CopyPNGFile "../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png" "Map/../Map/Resources/HeadingAngleLarge@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleLarge@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleLarge@2x.png"36"BACB4588-159D-480D-A578-8922B60B857C-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.png
+s396276408.310963
+e396276408.351582
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png
+xMap/../Map/Resources/HeadingAngleMedium.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.pngb6bb4fb8b29eb741^cd015ab8b29eb741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium.png0000000000000000^1085"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleMedium.png Map/../Map/Resources/HeadingAngleMedium.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium.png36"1650EBBF-3AD3-4B05-991A-7F5F29923832-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png Map/../Map/Resources/HeadingAngleMedium@2x.png
+s396276408.352231
+e396276408.400628
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png
+xMap/../Map/Resources/HeadingAngleMedium@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png Map/../Map/Resources/HeadingAngleMedium@2x.png404c5ab8b29eb741^55a466b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium@2x.png0000000000000000^1105"CopyPNGFile "../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png" "Map/../Map/Resources/HeadingAngleMedium@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleMedium@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleMedium@2x.png"36"A2952CB7-4B75-4257-A6EB-D625C39F2B3F-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.png
+s396276408.001018
+e396276408.044513
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png
+xMap/../Map/Resources/HeadingAngleSmall.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.pngb26200b8b29eb741^66840bb8b29eb741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall.png0000000000000000^1081"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleSmall.png Map/../Map/Resources/HeadingAngleSmall.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall.png36"EABEB81D-82F5-4DA8-BF02-C718F6486564-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png Map/../Map/Resources/HeadingAngleSmall@2x.png
+s396276408.009352
+e396276408.058663
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png
+xMap/../Map/Resources/HeadingAngleSmall@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CopyPNGFile ../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png Map/../Map/Resources/HeadingAngleSmall@2x.pnga98502b8b29eb741^b3250fb8b29eb741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall@2x.png0000000000000000^1101"CopyPNGFile "../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png" "Map/../Map/Resources/HeadingAngleSmall@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/HeadingAngleSmall@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/HeadingAngleSmall@2x.png"36"280A9D19-7972-4C63-A4AE-0830D136ABCF-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png
+s396276408.045759
+e396276408.088891
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png
+xMap/../Map/Resources/LoadingTile.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png06d40bb8b29eb741^15e116b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTile.png0000000000000000^1057"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTile.png Map/../Map/Resources/LoadingTile.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTile.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTile.png36"C5E51B62-DE59-4600-86E2-2EA843E96D73-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.png
+s396276408.059952
+e396276408.108389
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png
+xMap/../Map/Resources/LoadingTileZoom.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.pnge2770fb8b29eb741^4ad01bb8b29eb741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTileZoom.png0000000000000000^1073"CopyPNGFile ../../Resources/MapBox.bundle/LoadingTileZoom.png Map/../Map/Resources/LoadingTileZoom.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/LoadingTileZoom.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/LoadingTileZoom.png36"9C9534CB-D105-4ADD-A252-BAF5D80B494E-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.png
+s396276408.091139
+e396276408.135066
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png
+xMap/../Map/Resources/TrackingDot.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.pngaf7717b8b29eb741^ef5523b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot.png0000000000000000^1057"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDot.png Map/../Map/Resources/TrackingDot.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot.png36"67D4E806-4B0B-4A9A-82D0-C15A7CC763D5-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png Map/../Map/Resources/TrackingDot@2x.png
+s396276408.109631
+e396276408.162795
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png
+xMap/../Map/Resources/TrackingDot@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDot@2x.png Map/../Map/Resources/TrackingDot@2x.png50371cb8b29eb741^e5b629b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot@2x.png0000000000000000^1077"CopyPNGFile "../../Resources/MapBox.bundle/TrackingDot@2x.png" "Map/../Map/Resources/TrackingDot@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDot@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDot@2x.png"36"D9656155-6983-4E90-A9CD-84F5A4D07A5E-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png
+s396276408.137337
+e396276408.182326
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png
+xMap/../Map/Resources/TrackingDotHalo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png624b23b8b29eb741^7ec52eb8b29eb741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo.png0000000000000000^1073"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDotHalo.png Map/../Map/Resources/TrackingDotHalo.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo.png36"CC34BB33-F2C9-4C35-A43F-84828C761F93-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png Map/../Map/Resources/TrackingDotHalo@2x.png
+s396276408.167210
+e396276408.225128
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png
+xMap/../Map/Resources/TrackingDotHalo@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ../../Resources/MapBox.bundle/TrackingDotHalo@2x.png Map/../Map/Resources/TrackingDotHalo@2x.png4af02ab8b29eb741^1ea639b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo@2x.png0000000000000000^1093"CopyPNGFile "../../Resources/MapBox.bundle/TrackingDotHalo@2x.png" "Map/../Map/Resources/TrackingDotHalo@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingDotHalo@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingDotHalo@2x.png"36"7D43155E-F275-45BD-A12F-F4DB7405FAD7-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png
+s396276408.184135
+e396276408.223971
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png
+xMap/../Map/Resources/TrackingHeading.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png5f442fb8b29eb741^3e7839b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading.png0000000000000000^1073"CopyPNGFile ../../Resources/MapBox.bundle/TrackingHeading.png Map/../Map/Resources/TrackingHeading.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading.png36"F6BDCE22-B24C-4B53-A7DB-4542B67A40AF-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png Map/../Map/Resources/TrackingHeading@2x.png
+s396276408.225345
+e396276408.262798
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png
+xMap/../Map/Resources/TrackingHeading@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ../../Resources/MapBox.bundle/TrackingHeading@2x.png Map/../Map/Resources/TrackingHeading@2x.png92cd39b8b29eb741^429344b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading@2x.png0000000000000000^1093"CopyPNGFile "../../Resources/MapBox.bundle/TrackingHeading@2x.png" "Map/../Map/Resources/TrackingHeading@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingHeading@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingHeading@2x.png"36"5690EE4C-2FF1-4D7E-922A-1A965B715E38-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.png
+s396276408.225938
+e396276408.267173
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png
+xMap/../Map/Resources/TrackingLocation.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CopyPNGFile ../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.png20ef39b8b29eb741^3d9844b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation.png0000000000000000^1077"CopyPNGFile ../../Resources/MapBox.bundle/TrackingLocation.png Map/../Map/Resources/TrackingLocation.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation.png36"2E20F814-B2CC-4467-BCE1-71F28DAE3056-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png Map/../Map/Resources/TrackingLocation@2x.png
+s396276408.267285
+e396276408.301721
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png
+xMap/../Map/Resources/TrackingLocation@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CopyPNGFile ../../Resources/MapBox.bundle/TrackingLocation@2x.png Map/../Map/Resources/TrackingLocation@2x.png978f44b8b29eb741^04574db8b29eb741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation@2x.png0000000000000000^1097"CopyPNGFile "../../Resources/MapBox.bundle/TrackingLocation@2x.png" "Map/../Map/Resources/TrackingLocation@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/TrackingLocation@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/TrackingLocation@2x.png"36"DD5AD686-A482-4D64-ACAF-CF39D184E5BE-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.png
+s396276407.861472
+e396276408.002541
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png
+xMap/../Map/Resources/mapbox.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile ../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.pngbbb5dcb7b29eb741^e0db00b8b29eb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/mapbox.png0000000000000000^1037"CopyPNGFile ../../Resources/MapBox.bundle/mapbox.png Map/../Map/Resources/mapbox.png    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/mapbox.png /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox.png36"CE81D833-FEE4-486E-983C-6FB41F33F03C-
+
+CCopyPNGFile /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png Map/../Map/Resources/mapbox@2x.png
+s396276407.863121
+e396276407.992513
+r1
+xCopyPNGFile
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png
+xMap/../Map/Resources/mapbox@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile ../../Resources/MapBox.bundle/mapbox@2x.png Map/../Map/Resources/mapbox@2x.png0e13ddb7b29eb741^1362feb7b29eb741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/mapbox@2x.png0000000000000000^1057"CopyPNGFile "../../Resources/MapBox.bundle/mapbox@2x.png" "Map/../Map/Resources/mapbox@2x.png"    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/mapbox@2x.png" "/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/mapbox@2x.png"36"5287CFDE-5E64-47E9-825F-7758ADB54EE9-
+
+CCpResource Map/../Map/Resources/examples.map-z2effxa8.json ../../Resources/MapBox.bundle/examples.map-z2effxa8.json
+s396276408.352872
+e396276408.357018
+r1
+xCpResource
+xMap/../Map/Resources/examples.map-z2effxa8.json
+x../../Resources/MapBox.bundle/examples.map-z2effxa8.json
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy ../../Resources/MapBox.bundle/examples.map-z2effxa8.jsonfc725ab8b29eb741^c16f5bb8b29eb741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/examples.map-z2effxa8.json000000000080d041^1197"CpResource Map/../Map/Resources/examples.map-z2effxa8.json ../../Resources/MapBox.bundle/examples.map-z2effxa8.json    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/examples.map-z2effxa8.json /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle36"CAE89522-34A6-40C7-B2EA-F316C221AB0E-
+
+CCpResource Map/../Map/Resources/examples.map-zswgei2n.json ../../Resources/MapBox.bundle/examples.map-zswgei2n.json
+s396276408.358231
+e396276408.370497
+r1
+xCpResource
+xMap/../Map/Resources/examples.map-zswgei2n.json
+x../../Resources/MapBox.bundle/examples.map-zswgei2n.json
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy ../../Resources/MapBox.bundle/examples.map-zswgei2n.jsond8d65bb8b29eb741^02f55eb8b29eb741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle/examples.map-zswgei2n.json000000000080d041^1197"CpResource Map/../Map/Resources/examples.map-zswgei2n.json ../../Resources/MapBox.bundle/examples.map-zswgei2n.json    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Boska/Projects/climber/Pods/MapBox/MapView/Map/../Map/Resources/examples.map-zswgei2n.json /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle36"F5A40391-2D90-47BE-BA08-CDF56476E515-
+
+CTouch /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+s396276408.408712
+e396276408.414736
+r1
+xTouch
+x/Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle51be68b8b29eb741^78436ab8b29eb741^---0#0#0#--803"Touch ../../Resources/MapBox.bundle    cd /Users/Boska/Projects/climber/Pods/MapBox/MapView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/rvm/gems/ruby-1.9.3-p194/bin:/usr/local/rvm/gems/ruby-1.9.3-p194@global/bin:/usr/local/rvm/rubies/ruby-1.9.3-p194/bin:/usr/local/rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/Boska/Projects/climber/Pods/MapBox/MapView/../../Resources/MapBox.bundle36"201CF2DD-B97D-4691-87D7-B69805E9B5BE-
+

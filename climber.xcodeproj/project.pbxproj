@@ -29,6 +29,8 @@
 		8D953208179EB0BA008FDE66 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D9531D5179EB0BA008FDE66 /* Foundation.framework */; };
 		8D953210179EB0BA008FDE66 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D95320E179EB0BA008FDE66 /* InfoPlist.strings */; };
 		8D953213179EB0BA008FDE66 /* climberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D953212179EB0BA008FDE66 /* climberTests.m */; };
+		8D95321F179EB6D8008FDE66 /* wind.kml in Resources */ = {isa = PBXBuildFile; fileRef = 8D95321E179EB6D8008FDE66 /* wind.kml */; };
+		E9EA8887973C429B981A4DD3 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F414DC40E69D4A278EF290A0 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E50B5B1EA91490899B61D99 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
 		8D9531D0179EB0BA008FDE66 /* climber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = climber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D9531D3179EB0BA008FDE66 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8D9531D5179EB0BA008FDE66 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -71,6 +74,8 @@
 		8D95320F179EB0BA008FDE66 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8D953211179EB0BA008FDE66 /* climberTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = climberTests.h; sourceTree = "<group>"; };
 		8D953212179EB0BA008FDE66 /* climberTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = climberTests.m; sourceTree = "<group>"; };
+		8D95321E179EB6D8008FDE66 /* wind.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = wind.kml; path = /Users/Boska/Projects/climber/climber/routes/wind.kml; sourceTree = "<absolute>"; };
+		F414DC40E69D4A278EF290A0 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +86,7 @@
 				8D9531D4179EB0BA008FDE66 /* UIKit.framework in Frameworks */,
 				8D9531D6179EB0BA008FDE66 /* Foundation.framework in Frameworks */,
 				8D9531D8179EB0BA008FDE66 /* CoreGraphics.framework in Frameworks */,
+				E9EA8887973C429B981A4DD3 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -104,6 +110,7 @@
 				8D95320B179EB0BA008FDE66 /* climberTests */,
 				8D9531D2179EB0BA008FDE66 /* Frameworks */,
 				8D9531D1179EB0BA008FDE66 /* Products */,
+				0E50B5B1EA91490899B61D99 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +130,7 @@
 				8D9531D5179EB0BA008FDE66 /* Foundation.framework */,
 				8D9531D7179EB0BA008FDE66 /* CoreGraphics.framework */,
 				8D953205179EB0BA008FDE66 /* SenTestingKit.framework */,
+				F414DC40E69D4A278EF290A0 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -130,6 +138,7 @@
 		8D9531D9179EB0BA008FDE66 /* climber */ = {
 			isa = PBXGroup;
 			children = (
+				8D95321D179EB6D8008FDE66 /* routes */,
 				8D9531E2179EB0BA008FDE66 /* RBAppDelegate.h */,
 				8D9531E3179EB0BA008FDE66 /* RBAppDelegate.m */,
 				8D9531EB179EB0BA008FDE66 /* MainStoryboard_iPhone.storyboard */,
@@ -180,6 +189,14 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		8D95321D179EB6D8008FDE66 /* routes */ = {
+			isa = PBXGroup;
+			children = (
+				8D95321E179EB6D8008FDE66 /* wind.kml */,
+			);
+			path = routes;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -187,9 +204,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8D953216179EB0BA008FDE66 /* Build configuration list for PBXNativeTarget "climber" */;
 			buildPhases = (
+				1CBD3217C1E04654A34AD1B4 /* Check Pods Manifest.lock */,
 				8D9531CC179EB0BA008FDE66 /* Sources */,
 				8D9531CD179EB0BA008FDE66 /* Frameworks */,
 				8D9531CE179EB0BA008FDE66 /* Resources */,
+				F4A54C7C54684C23B1D5BD0B /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -262,6 +281,7 @@
 				8D9531F7179EB0BA008FDE66 /* first@2x.png in Resources */,
 				8D9531FC179EB0BA008FDE66 /* second.png in Resources */,
 				8D9531FE179EB0BA008FDE66 /* second@2x.png in Resources */,
+				8D95321F179EB6D8008FDE66 /* wind.kml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +296,20 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		1CBD3217C1E04654A34AD1B4 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+		};
 		8D953202179EB0BA008FDE66 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -288,6 +322,20 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+		F4A54C7C54684C23B1D5BD0B /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -417,6 +465,7 @@
 		};
 		8D953217179EB0BA008FDE66 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E50B5B1EA91490899B61D99 /* Pods.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "climber/climber-Prefix.pch";
@@ -428,6 +477,7 @@
 		};
 		8D953218179EB0BA008FDE66 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E50B5B1EA91490899B61D99 /* Pods.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "climber/climber-Prefix.pch";
@@ -490,6 +540,7 @@
 				8D953218179EB0BA008FDE66 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8D953219179EB0BA008FDE66 /* Build configuration list for PBXNativeTarget "climberTests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +549,7 @@
 				8D95321B179EB0BA008FDE66 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
