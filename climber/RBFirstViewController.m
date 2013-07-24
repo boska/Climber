@@ -22,7 +22,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    RMMapBoxSource *tileSource = [[RMMapBoxSource alloc] initWithMapID:@"boska.map-y3uht1ox"];
+    RMMapBoxSource *tileSource = [[RMMapBoxSource alloc] initWithMapID:@"boska.map-19wk3jmc"];
     RMMapView *mapView = [[RMMapView alloc] initWithFrame:self.view.bounds andTilesource:tileSource];
     mapView.delegate = self;
     [mapView setCenterCoordinate:CLLocationCoordinate2DMake(25.1249457813586, 121.60245180130005)];
@@ -87,7 +87,7 @@
     
     RMShape *shape = [[RMShape alloc] initWithView:mapView];
     
-    shape.lineColor = [UIColor whiteColor];
+    shape.lineColor = [UIColor redColor];
     shape.lineWidth = 5.0;
     
     for (CLLocation *location in (NSArray *)annotation.userInfo)

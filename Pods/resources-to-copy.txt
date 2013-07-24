@@ -1,1 +1,1 @@
-/Users/Boska/Projects/climber/Pods/Resources/MapBox.bundle
+/Users/Boska/Climber/Pods/Resources/MapBox.bundle

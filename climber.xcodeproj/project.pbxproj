@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D7C2533179FCD9C00799364 /* RBHeightView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D7C2532179FCD9C00799364 /* RBHeightView.m */; };
 		8D9531D4179EB0BA008FDE66 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D9531D3179EB0BA008FDE66 /* UIKit.framework */; };
 		8D9531D6179EB0BA008FDE66 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D9531D5179EB0BA008FDE66 /* Foundation.framework */; };
 		8D9531D8179EB0BA008FDE66 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D9531D7179EB0BA008FDE66 /* CoreGraphics.framework */; };
@@ -46,6 +47,8 @@
 
 /* Begin PBXFileReference section */
 		0E50B5B1EA91490899B61D99 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+		8D7C2531179FCD9C00799364 /* RBHeightView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RBHeightView.h; path = ../RBHeightView.h; sourceTree = "<group>"; };
+		8D7C2532179FCD9C00799364 /* RBHeightView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RBHeightView.m; path = ../RBHeightView.m; sourceTree = "<group>"; };
 		8D9531D0179EB0BA008FDE66 /* climber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = climber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D9531D3179EB0BA008FDE66 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8D9531D5179EB0BA008FDE66 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -75,7 +78,7 @@
 		8D95320F179EB0BA008FDE66 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8D953211179EB0BA008FDE66 /* climberTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = climberTests.h; sourceTree = "<group>"; };
 		8D953212179EB0BA008FDE66 /* climberTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = climberTests.m; sourceTree = "<group>"; };
-		8D95321E179EB6D8008FDE66 /* wind.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = wind.kml; path = /Users/Boska/Projects/climber/climber/routes/wind.kml; sourceTree = "<absolute>"; };
+		8D95321E179EB6D8008FDE66 /* wind.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = wind.kml; path = /Users/Boska/Climber/climber/routes/wind.kml; sourceTree = "<absolute>"; };
 		8D9A0818179ED9E500239286 /* RBHeightPlotViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RBHeightPlotViewController.h; path = ../RBHeightPlotViewController.h; sourceTree = "<group>"; };
 		8D9A0819179ED9E500239286 /* RBHeightPlotViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RBHeightPlotViewController.m; path = ../RBHeightPlotViewController.m; sourceTree = "<group>"; };
 		F414DC40E69D4A278EF290A0 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -150,6 +153,8 @@
 				8D9531EE179EB0BA008FDE66 /* MainStoryboard_iPad.storyboard */,
 				8D9531F1179EB0BA008FDE66 /* RBFirstViewController.h */,
 				8D9531F2179EB0BA008FDE66 /* RBFirstViewController.m */,
+				8D7C2531179FCD9C00799364 /* RBHeightView.h */,
+				8D7C2532179FCD9C00799364 /* RBHeightView.m */,
 				8D9531F4179EB0BA008FDE66 /* first.png */,
 				8D9531F6179EB0BA008FDE66 /* first@2x.png */,
 				8D9531F8179EB0BA008FDE66 /* RBSecondViewController.h */,
@@ -354,6 +359,7 @@
 				8D9531F3179EB0BA008FDE66 /* RBFirstViewController.m in Sources */,
 				8D9531FA179EB0BA008FDE66 /* RBSecondViewController.m in Sources */,
 				8D9A081A179ED9E500239286 /* RBHeightPlotViewController.m in Sources */,
+				8D7C2533179FCD9C00799364 /* RBHeightView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
